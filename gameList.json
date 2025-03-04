@@ -1,14 +1,10 @@
 {
     "games": [
         {
-            "name": "무궁화 ",
-            "store_link": "https://play.google.com/store/apps/details?id=com.yourgame.colosseum",
+            "name": "무궁화 꽃이 피었습니다 : 판타지 월드",
+            "nameEn" : "RedLight GreenLight : Fantasy World",
+            "store_link": "https://play.google.com/store/apps/details?id=com.losttimesgamestudio.RedLightGreenLight&pcampaignid=web_share",
             "icon": "https://raw.githubusercontent.com/ChoiHeeR/LTGameList/refs/heads/main/appicon_redlightgreenlight.png"
-        },
-        {
-            "name": "Space Shooter",
-            "store_link": "https://play.google.com/store/apps/details?id=com.yourgame.spaceshooter",
-            "icon": "https://yourserver.com/icons/spaceshooter.png"
         }
     ]
 }
