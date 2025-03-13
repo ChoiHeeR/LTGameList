@@ -5,6 +5,12 @@
             "nameEn" : "RedLight GreenLight : Fantasy World",
             "store_link": "https://play.google.com/store/apps/details?id=com.losttimesgamestudio.RedLightGreenLight&pcampaignid=web_share",
             "icon": "https://raw.githubusercontent.com/ChoiHeeR/LTGameList/refs/heads/main/appicon_redlightgreenlight.png"
+        },
+        {
+            "name": "슈퍼브레인히어로즈",
+            "nameEn" : "SuperBrainHeroes",
+            "store_link": "https://play.google.com/store/apps/details?id=com.losttimegames.superbrainheroes&pcampaignid=web_share",
+            "icon": "https://raw.githubusercontent.com/ChoiHeeR/LTGameList/refs/heads/main/appicon_superbrainheroes.png"
         }
     ]
 }
